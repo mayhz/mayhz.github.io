@@ -2,5 +2,5 @@
 
 Machine learning scientist  
 
-[My resume](http://www.mayhz.github.io/Alhazzani_resume.pdf)
+[My resume](http://mayhz.github.io/Alhazzani_resume.pdf)
 
